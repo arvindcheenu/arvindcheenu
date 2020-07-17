@@ -1,4 +1,7 @@
 ### Hi there 👋
+**Thanks 🙏** for stopping by
+
+Hope you have a **splendid day 🌼**
 
 <!--
 **arvindcheenu/arvindcheenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
