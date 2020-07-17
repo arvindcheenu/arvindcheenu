@@ -1,5 +1,7 @@
 ### Hi there 👋
-**Thanks 🙏** for stopping by
+**Thanks 🙏** for stopping by.
+
+🔭 To know about my relatively recent work, checkout the 📌 **pinned** repositories.
 
 Hope you have a **splendid day 🌼**
 
