@@ -1,10 +1,10 @@
 ### Hi there 👋
-**Thanks 🙏** for stopping by.
 
-🔭 To know about my relatively recent work and forks, checkout the 📌 **pinned** repositories.
+Thanks 🙏 for stopping by.
 
-Hope you have a **splendid day 🌼**
+🔭 To know about my relatively recent work and forks, checkout the 📌 pinned repositories.
 
+<img src="https://github-readme-stats.vercel.app/api?username=arvindcheenu&count_private=true&show_icons=true&include_all_commits=true&hide=stars"/>
 <!--
 **arvindcheenu/arvindcheenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
