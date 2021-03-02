@@ -4,7 +4,7 @@ Thanks 🙏 for stopping by.
 
 🔭 To know about my relatively recent work and forks, checkout the 📌 pinned repositories.
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=arvindcheenu&count_private=true&show_icons=true&include_all_commits=false&hide=stars&theme=dark"/>
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=arvindcheenu&count_private=true&show_icons=true&include_all_commits=false&hide=stars&bg_color=0d1117&hide_border=true&text_color=b1bac4&icon_color=58a6ff&title_color=58a6ff"/>
 <!--
 **arvindcheenu/arvindcheenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
